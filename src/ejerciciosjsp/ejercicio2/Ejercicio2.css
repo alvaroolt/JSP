@@ -1,0 +1,15 @@
+root {
+	display: block;
+}
+
+body {
+	color: green;
+	background: #FBB478;
+	font-size: 14px;
+	font-family: sans-serif;
+}
+
+h2 {
+	color: #FF9337;
+	font-size: 20px;
+}
